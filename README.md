@@ -1,1 +1,1 @@
-# containerapps-poc
+# PoC for running containerized applications on Azure Container Apps (ACA)
