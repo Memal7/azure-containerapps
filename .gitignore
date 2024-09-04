@@ -1,0 +1,24 @@
+# everything about terraform provider
+.terraform
+
+# sensitive data about deployed infrastructures
+*.tfstate
+*.tfstate.*
+
+# .terraform.lock.hcl
+.terraform.lock.hcl
+
+# .svg files from graph
+*.svg
+
+# variables values
+*.tfvars
+
+# .tfplan files
+*tfplan
+
+# storage account infos
+backend-config.txt
+
+# .DS_Store
+.DS_Store
